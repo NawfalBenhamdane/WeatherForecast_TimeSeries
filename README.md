@@ -152,3 +152,7 @@ The results indicate that XGBoost captures both the short-term temperature patte
 **Nawfal Benhamdane**  
 📧 nawfal.benhamdane@student-cs.fr  
 💻 [GitHub Profile](https://github.com/nawfalbenhamdane)
+
+**Mohamed Benkirane**  
+📧 mohamed.benkirane@student-cs.fr  
+💻 [GitHub Profile](https://github.com/simobenk)
