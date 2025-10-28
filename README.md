@@ -47,7 +47,7 @@ where:
 - \( P \) is the full period of the cycle (31, 12, or 7)
 
 Additional engineered features include:
-- Temperature variation \( \Delta T = T_t - T_{t-1} \)
+- Temperature variation  $$\( \Delta T = T_t - T_{t-1} \)$$
 - Normalized trigonometric encodings of daily, monthly, and weekly periodicity
 - Environmental predictors such as humidity, wind bearing, visibility, and pressure
 
